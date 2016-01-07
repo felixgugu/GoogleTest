@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "felixtest-a8d2e",
+    "project_number": "469189881663",
+    "name": "felixtest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469189881663:android:cae023bc340f8a4c",
+        "client_id": "android:cc.felix.app",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "cc.felix.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469189881663-irfpks3rrju4ec6cie10ff05649vkhlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cc.felix.app",
+            "certificate_hash": "111DF95252448E429C0750E5329C9B8AF2726497"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
